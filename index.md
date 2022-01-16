@@ -3,19 +3,24 @@
 
 - [How to create visual materials with Piktochart](#how-to-create-visual-materials-with-piktochart)
   - [Introduction](#introduction)
-    - [What is piktochart](#what-is-piktochart)
-    - [How to sign in](#how-to-sign-in)
+    - [What is piktochart?](#what-is-piktochart)
+    - [How to sign in?](#how-to-sign-in)
   - [Quickstart guide](#quickstart-guide)
   - [Glossary](#glossary)
 
 
 ## Introduction
 
-### What is piktochart
+### What is piktochart?
 
 Piktochart is a web-based graphic design tool. It allows you to easily create visuals, including infographics, reports, presentations, posters, flyers, and social media graphics, using customizable templates.
 
-### How to sign in
+### How to sign in?
+
+To sign in, you need a Piktochart account first:
+
+1. Go to [Piktochart page](https://piktochart.com/).
+2. Select 
 
 ## Quickstart guide
 
