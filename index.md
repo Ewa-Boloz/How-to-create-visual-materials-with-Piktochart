@@ -8,6 +8,7 @@
   - [User interface](#user-interface)
     - [Menu](#menu)
     - [Workspace](#workspace)
+    - [Settings](#settings)
   - [Quickstart guide](#quickstart-guide)
   - [Glossary](#glossary)
 
@@ -36,12 +37,12 @@ Once you sign in, it is time to familiarize yourself with the user interface.
 On the left side you will find easy to use Menu with **Create new** button. Click the button and decide what you like to create.
 
 Below the button you can also find all available formats:
-* Infographics
-* Presentations
-* Posters
-* Reports
-* Flyers
-* Social Media
+* **Infographics**
+* **Presentations**
+* **Posters**
+* **Reports**
+* **Flyers**
+* **Social Media**
 
 You can also create your own custom sizes.
 
@@ -49,7 +50,15 @@ You can find here also **Saved Templates** and **Inspire me** section.
 
 ### Workspace
 
+In the central section you see your current workspace. Every visual you create on Piktochart takes place in a workspace. It's where you store your visuals and organize information — as just one person or collaborate as a team. Each account will have a minimum of one workspace.
 
+### Settings
+
+In the navigation bar at the top right corner you will find **Settings** icon and **Switch Workspace** option.
+
+* **Switch Workspace** allows you to switch to other workspaces if you have more than one workspace.
+* For each workspace, you have access to the **Settings & Members** page for the workspace.
+* You can change setiings in a **specific workspace** or you can make **Personal Settings** which apply to all of your Piktochart workspaces.
 
 
 ## Quickstart guide
