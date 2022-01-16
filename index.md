@@ -112,7 +112,7 @@ With Piktochart's comprehensive interface, tools, and features, you can be an vi
 * Use the search tool and insert keywords to narrow down further what you're looking for. Just click or drag-and-drop the graphics you need from the menu to your canvas.
 * You can also customize how your graphics look by changing the colors, resizing and rotating them.
   ![13](13.png)
-* You can also Upload our own photos, icons and graphics using the **Uploads** tab.
+* You can also **Upload** your own photos, icons and graphics using the **Uploads** tab.
   ![14](14.png)
 
 ### 5. Visualize your Data
