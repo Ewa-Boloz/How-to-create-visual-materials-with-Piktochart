@@ -103,17 +103,20 @@ With Piktochart's comprehensive interface, tools, and features, you can be an vi
 
 ### 4. Insert Graphics
 
+* There are thousands of icons and images available in our **Graphics libraries > Shapes & Icons**.
+* Use the search tool and insert keywords to narrow down further what you're looking for. Just click or drag-and-drop the graphics you need from the menu to your canvas.
+* You can also customize how your graphics look by changing the colors, resizing and rotating them.
+* You can also Upload our own photos, icons and graphics using the **Uploads** tab.
+
 ### 5. Visualize your Data
+
+* There are tons of tool options to create charts and maps that can be customized to visualize your data.
+* A popup will appear from which you can choose the best chart style for your data, coupled with a spreadsheet to input your data.
 
 ### 6. Share your Visual
 
-
-
-There are thousands of icons and images available in our Graphics libraries > Shapes & Icons! Use the search tool and insert keywords to narrow down further what you're looking for. Just click or drag-and-drop the graphics you need from the menu to your canvas.
-
-
-1. Visualize your Data
-2. Share your Visual
+* You can download your work as an image, publish it online, share by email, or share your infographic directly on social media.
+* View your infographic on the output page by following the provided URL when you publish to the web for public view. Once you have shared it, you and your audience can enjoy your Piktochart in **Presentation Mode**.
 
 ## Glossary
 
