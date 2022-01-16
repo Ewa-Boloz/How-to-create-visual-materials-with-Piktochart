@@ -90,32 +90,44 @@ With Piktochart's comprehensive interface, tools, and features, you can be an vi
 
    Select the format you want to create in the left side menu.
 
+   ![9](9.png)
+
 ### 2. Find the Right Template
 
-* Once you click on the chosen format you can go through pre-designed templates ready to use any time. 
+* Once you click on the chosen format you can go through pre-designed templates ready to use any time.
+![9a](9a.png)
 * If you know the name of the theme you are looking for, you can use the search bar.
 * You can also filter through themes of similar topics to look for more template options that relate with what you were looking for.
 
 ### 3. Select a Template
 
 * You can first **Preview** the template to make sure of your choice. Once you've decided on your template, click **Use Template** to load the selected template.
+  ![10](10.png)
 * In the **Editor**, start by making edits to text by double-clicking the text box and insert your content.
+  ![11](11.png)
 
 ### 4. Insert Graphics
 
 * There are thousands of icons and images available in our **Graphics libraries > Shapes & Icons**.
+  ![12](12.png)
 * Use the search tool and insert keywords to narrow down further what you're looking for. Just click or drag-and-drop the graphics you need from the menu to your canvas.
 * You can also customize how your graphics look by changing the colors, resizing and rotating them.
+  ![13](13.png)
 * You can also Upload our own photos, icons and graphics using the **Uploads** tab.
+  ![14](14.png)
 
 ### 5. Visualize your Data
 
 * There are tons of tool options to create charts and maps that can be customized to visualize your data.
 * A popup will appear from which you can choose the best chart style for your data, coupled with a spreadsheet to input your data.
+  ![15](15.png)
 
 ### 6. Share your Visual
 
-* You can download your work as an image, publish it online, share by email, or share your infographic directly on social media.
+* You can download your work in PNG or PDF format as well as in the PowerPoint format
+  ![17](17.png)
+* You can also share it by email, or share your infographic directly on social media.
+  ![16](16.png)
 * View your infographic on the output page by following the provided URL when you publish to the web for public view. Once you have shared it, you and your audience can enjoy your Piktochart in **Presentation Mode**.
 
 ## Glossary
