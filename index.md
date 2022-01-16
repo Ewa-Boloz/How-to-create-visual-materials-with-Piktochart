@@ -63,6 +63,19 @@ In the navigation bar at the top right corner you will find **Settings** icon an
 
 ## Quickstart guide
 
+With Piktochart's comprehensive interface, tools, and features, you can be an infographic-making genius in no time. Try to create your firts visual in 6 Steps:
+
+1. Select the format
+   
+   Select the format you want to create in the left side menu.
+2. Find the Right Template
+
+Once you click on the chosen format you 
+1. Select a Template
+2. Insert Graphics
+3. Visualize your Data
+4. Share your Visual
+
 ## Glossary
 
 * **Dashboard** is a place when you can find all your work. From here, you may view and manage all your saved visuals.
