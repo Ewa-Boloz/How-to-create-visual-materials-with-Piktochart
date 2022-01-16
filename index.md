@@ -107,7 +107,7 @@ With Piktochart's comprehensive interface, tools, and features, you can be an vi
 
 ### 4. Insert Graphics
 
-* There are thousands of icons and images available in our **Graphics libraries > Shapes & Icons**.
+* There are thousands of icons and images available in the **Graphics libraries > Shapes & Icons**.
   ![12](12.png)
 * Use the search tool and insert keywords to narrow down further what you're looking for. Just click or drag-and-drop the graphics you need from the menu to your canvas.
 * You can also customize how your graphics look by changing the colors, resizing and rotating them.
