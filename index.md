@@ -10,6 +10,12 @@
     - [Workspace](#workspace)
     - [Settings](#settings)
   - [Quickstart guide](#quickstart-guide)
+    - [1. Select the format](#1-select-the-format)
+    - [2. Find the Right Template](#2-find-the-right-template)
+    - [3. Select a Template](#3-select-a-template)
+    - [4. Insert Graphics](#4-insert-graphics)
+    - [5. Visualize your Data](#5-visualize-your-data)
+    - [6. Share your Visual](#6-share-your-visual)
   - [Glossary](#glossary)
 
 
@@ -75,18 +81,37 @@ In the navigation bar at the top right corner you will find **Settings** icon an
 
 ## Quickstart guide
 
-With Piktochart's comprehensive interface, tools, and features, you can be an infographic-making genius in no time. Try to create your firts visual in 6 Steps:
+With Piktochart's comprehensive interface, tools, and features, you can be an visual-making genius in no time. Try to create your first visual in a few simple steps:
 
-1. Select the format
-   
+
+### 1. Select the format
+
    Select the format you want to create in the left side menu.
-2. Find the Right Template
 
-Once you click on the chosen format you 
-1. Select a Template
-2. Insert Graphics
-3. Visualize your Data
-4. Share your Visual
+### 2. Find the Right Template
+
+* Once you click on the chosen format you can go through pre-designed templates ready to use any time. 
+* If you know the name of the theme you are looking for, you can use the search bar.
+* You can also filter through themes of similar topics to look for more template options that relate with what you were looking for.
+
+### 3. Select a Template
+
+* You can first **Preview** the template to make sure of your choice. Once you've decided on your template, click **Use Template** to load the selected template.
+* In the **Editor**, start by making edits to text by double-clicking the text box and insert your content.
+
+### 4. Insert Graphics
+
+### 5. Visualize your Data
+
+### 6. Share your Visual
+
+
+
+There are thousands of icons and images available in our Graphics libraries > Shapes & Icons! Use the search tool and insert keywords to narrow down further what you're looking for. Just click or drag-and-drop the graphics you need from the menu to your canvas.
+
+
+1. Visualize your Data
+2. Share your Visual
 
 ## Glossary
 
