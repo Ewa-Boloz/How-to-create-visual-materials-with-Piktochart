@@ -7,6 +7,7 @@
     - [How to sign in?](#how-to-sign-in)
   - [User interface](#user-interface)
     - [Menu](#menu)
+    - [Workspace](#workspace)
   - [Quickstart guide](#quickstart-guide)
   - [Glossary](#glossary)
 
@@ -44,7 +45,11 @@ Below the button you can also find all available formats:
 
 You can also create your own custom sizes.
 
-In this menu 
+You can find here also **Saved Templates** and **Inspire me** section.
+
+### Workspace
+
+
 
 
 ## Quickstart guide
