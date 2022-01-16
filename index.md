@@ -30,7 +30,7 @@ To sign in, you need a Piktochart account first:
 4. If you choose second option enter your **Full name**, **Email**, **Password**, and click **Create Account**.
    ![2](2.png)
 5. A message with a confirmation link will be sent to your email address.
-6. Sign in into your email account and confirm your email address.
+6. Sign in into your email account and confirm your email address. 
 7. Once done, you can login into your piktochart account. 
    ![4](4.png)
 8. After logging in for the first time provide some information about yourself and click **Submit**.
