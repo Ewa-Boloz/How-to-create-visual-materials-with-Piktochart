@@ -5,6 +5,7 @@
   - [Introduction](#introduction)
     - [What is piktochart?](#what-is-piktochart)
     - [How to sign in?](#how-to-sign-in)
+  - [User interface](#user-interface)
   - [Quickstart guide](#quickstart-guide)
   - [Glossary](#glossary)
 
@@ -23,6 +24,9 @@ To sign in, you need a Piktochart account first:
 2. Select **Sign in** button in the upper right corner.
 3. You can sign in using your **Google** or **Facebook** account or create Piktochart account using your email address.
 4. 
+
+## User interface
+
 
 ## Quickstart guide
 
