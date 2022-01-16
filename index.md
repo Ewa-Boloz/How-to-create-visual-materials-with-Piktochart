@@ -88,8 +88,7 @@ With Piktochart's comprehensive interface, tools, and features, you can be an vi
 
 ### 1. Select the format
 
-   Select the format you want to create in the left side menu.
-
+   * Select the format you want to create in the left side menu.
    ![9](9.png)
 
 ### 2. Find the Right Template
