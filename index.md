@@ -25,6 +25,7 @@ To sign in, you need a Piktochart account first:
 
 1. Go to [Piktochart page](https://piktochart.com/).
 2. Select **Sign in** button in the upper right corner.
+   ![create account](create account.png)
 3. You can sign in using your **Google** or **Facebook** account or create Piktochart account using your email address.
 4. 
 
