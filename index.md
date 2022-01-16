@@ -6,6 +6,7 @@
     - [What is piktochart?](#what-is-piktochart)
     - [How to sign in?](#how-to-sign-in)
   - [User interface](#user-interface)
+    - [Menu](#menu)
   - [Quickstart guide](#quickstart-guide)
   - [Glossary](#glossary)
 
@@ -26,6 +27,24 @@ To sign in, you need a Piktochart account first:
 4. 
 
 ## User interface
+
+Once you sign in, it is time to familiarize yourself with the user interface.
+
+### Menu
+
+On the left side you will find easy to use Menu with **Create new** button. Click the button and decide what you like to create.
+
+Below the button you can also find all available formats:
+* Infographics
+* Presentations
+* Posters
+* Reports
+* Flyers
+* Social Media
+
+You can also create your own custom sizes.
+
+In this menu 
 
 
 ## Quickstart guide
